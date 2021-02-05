@@ -1,0 +1,4 @@
+# cpus: 4
+# memory: 8192
+# ip: "192.168.99.10"
+# shared_dir: /some/folder/with/your/projects
